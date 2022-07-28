@@ -1,0 +1,263 @@
+{
+    "fullTeam": [
+        {
+            "id": 0,
+            "playerNumber": 1,
+            "position": "goalkeeper",
+            "name": "Marc-André",
+            "strongName": "ter Stegen",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-ter_stegen.jpg",
+            "appareances": 327,
+            "cleanSheets": 121,
+            "saves": 767
+        },
+        {
+            "id": 1,
+            "playerNumber": 13,
+            "position": "goalkeeper",
+            "name": "",
+            "strongName": "Neto",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-ento.jpg",
+            "appareances": 21,
+            "cleanSheets": 6,
+            "saves": 42
+        },
+        {
+            "id": 2,
+            "playerNumber": 2,
+            "position": "defender",
+            "name": "Sergiño",
+            "strongName": "Dest",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-dest.jpg",
+            "appareances": 72,
+            "goals": 3,
+            "assists": 4
+        },
+        {
+            "id": 3,
+            "playerNumber": 3,
+            "position": "defender",
+            "name": "Gerard",
+            "strongName": "Piqué",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-pique.jpg",
+            "appareances": 606,
+            "goals": 52,
+            "assists": 7
+        },
+        {
+            "id": 4,
+            "playerNumber": 4,
+            "position": "defender",
+            "name": "Ronald",
+            "strongName": "Araújo",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-araujo.jpg",
+            "appareances": 82,
+            "goals": 6,
+            "assists": 1
+        },
+        {
+            "id": 5,
+            "playerNumber": 18,
+            "position": "defender",
+            "name": "Jordi",
+            "strongName": "Alba",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-jordi_alba.jpg",
+            "appareances": 428,
+            "goals": 25,
+            "assists": 85
+        },
+        {
+            "id": 6,
+            "playerNumber": 22,
+            "position": "defender",
+            "name": "Óscar",
+            "strongName": "Mingueza",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-mingueza.jpg",
+            "appareances": 66,
+            "goals": 2,
+            "assists": 5
+        },
+        {
+            "id": 7,
+            "playerNumber": 23,
+            "position": "defender",
+            "name": "Samuel",
+            "strongName": "Umtiti",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-umtiti.jpg",
+            "appareances": 133,
+            "goals": 2,
+            "assists": 1
+        },
+        {
+            "id": 8,
+            "playerNumber": 24,
+            "position": "defender",
+            "name": "Eric",
+            "strongName": "García",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-eric.jpg",
+            "appareances": 36,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "id": 9,
+            "playerNumber": 0,
+            "position": "defender",
+            "name": "Andreas",
+            "strongName": "Christensen",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-christensen.jpg",
+            "appareances": 0,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "id": 10,
+            "playerNumber": 5,
+            "position": "midfielder",
+            "name": "Sergio",
+            "strongName": "Busquets",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-sergio.jpg",
+            "appareances": 681,
+            "goals": 18,
+            "assists": 36
+        },
+        {
+            "id": 11,
+            "playerNumber": 6,
+            "position": "midfielder",
+            "name": "",
+            "strongName": "Riqui Puig",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-riqui.jpg",
+            "appareances": 57,
+            "goals": 2,
+            "assists": 3
+        },
+        {
+            "id": 12,
+            "playerNumber": 8,
+            "position": "midfielder",
+            "name": "",
+            "strongName": "Pedri",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-pedri.jpg",
+            "appareances": 74,
+            "goals": 9,
+            "assists": 7
+        },
+        {
+            "id": 13,
+            "playerNumber": 14,
+            "position": "midfielder",
+            "name": "",
+            "strongName": "Nico González",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-nico.jpg",
+            "appareances": 37,
+            "goals": 2,
+            "assists": 2
+        },
+        {
+            "id": 14,
+            "playerNumber": 20,
+            "position": "midfielder",
+            "name": "Sergi",
+            "strongName": "Roberto",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-s_roberto.jpg",
+            "appareances": 316,
+            "goals": 12,
+            "assists": 37
+        },
+        {
+            "id": 15,
+            "playerNumber": 21,
+            "position": "midfielder",
+            "name": "Frenkie",
+            "strongName": "de Jong",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-frenkie.jpg",
+            "appareances": 140,
+            "goals": 13,
+            "assists": 15
+        },
+        {
+            "id": 16,
+            "playerNumber": 0,
+            "position": "midfielder",
+            "name": "Franck",
+            "strongName": "Kessié",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-kessie.jpg",
+            "appareances": 0,
+            "goals": 0,
+            "assists": 0
+        },
+        {
+            "id": 17,
+            "playerNumber": 7,
+            "position": "fordward",
+            "name": "Ousmane",
+            "strongName": "Dembelé",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-dembele.png",
+            "appareances": 150,
+            "goals": 32,
+            "assists": 33
+        },
+        {
+            "id": 18,
+            "playerNumber": 9,
+            "position": "fordward",
+            "name": "Memphis",
+            "strongName": "Depay",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-memphis.jpg",
+            "appareances": 38,
+            "goals": 13,
+            "assists": 2
+        },
+        {
+            "id": 19,
+            "playerNumber": 10,
+            "position": "fordward",
+            "name": "",
+            "strongName": "Ansu Fati",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-ansu.jpg",
+            "appareances": 58,
+            "goals": 19,
+            "assists": 3
+        },
+        {
+            "id": 20,
+            "playerNumber": 12,
+            "position": "fordward",
+            "name": "Martin",
+            "strongName": "Braithwaite",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-brraithwaite.jpg",
+            "appareances": 58,
+            "goals": 10,
+            "assists": 4
+        },
+        {
+            "id": 21,
+            "playerNumber": 19,
+            "position": "fordward",
+            "name": "Ferran",
+            "strongName": "Torres",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-ferran.jpg",
+            "appareances": 26,
+            "goals": 7,
+            "assists": 6
+        },
+        {
+            "id": 22,
+            "playerNumber": 25,
+            "position": "fordward",
+            "name": "Pierre-Emerick",
+            "strongName": "Aubameyang",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador_fitxa-auba.jpg",
+            "appareances": 23,
+            "goals": 13,
+            "assists": 1
+        },
+        {
+            "id": 23,
+            "position": "coach",
+            "strongName": "Xavi",
+            "imgUrl": "../../assets/img/ficha-jugadores/jugador-fitxa_xavi.png"
+        }
+      ]
+}
